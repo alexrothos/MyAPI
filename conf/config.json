@@ -4,9 +4,9 @@
     "command_topic": "/topic/commands",
     "notifications_topic": "/topic/notifications",
     "DB": {
-        "url3": "postgresql://postgres:nyxaImelEspEtitslApins@52.47.200.119:5446/bids_monitoring",
-        "url2": "postgresql://postgres:Lass2019@@localhost:5432/postgres",
-        "url": "postgresql://postgres:postgres@localhost:5433/postgres"
+        "url3": "postgresql://postgres:***@52.47.200.119:5446/bids_monitoring",
+        "url2": "postgresql://postgres:***@@localhost:5432/postgres",
+        "url": "postgresql://postgres:***@localhost:5433/postgres"
     },
     "crypt-key": "ThisArentTheDroidYouAreLookingFor!"
 }
