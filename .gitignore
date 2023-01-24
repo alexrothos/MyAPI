@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+media_players_errors.log
+records_of_mp.log
+a.drawio
+v2.0/
+BIDS_fixed_values.csv
+toDB.js
+activemq_message.txt
